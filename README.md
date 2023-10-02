@@ -1,6 +1,6 @@
 # Welcome to Linear Regression Module
 
-## TOC:
+### TOC:
 - How to download files?
 - What is where?
 
